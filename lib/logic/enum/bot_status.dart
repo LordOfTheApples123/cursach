@@ -1,0 +1,4 @@
+enum BotStatus{
+  alive,
+  dead,
+}
